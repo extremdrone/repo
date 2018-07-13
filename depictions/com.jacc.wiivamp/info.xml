@@ -1,0 +1,33 @@
+<package>
+	<id>com.jacc.wiivamp</id>
+	<name>WiiVamp</name>
+	<version>3.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+        <package>com.spark.libsparkapplist</package>
+        <package>ws.hbang.common</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Play your favorite Wii songs inside of your apps!</description>
+	</descriptionlist>
+	<changelog>
+		<change>Added custom apps and more songs.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://www.twitter.com/jvcks0n</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+        <link>
+            <name>PayPal</name>
+            <url>https://www.paypal.me/jvcks0n</url>
+            <iconclass>fa fa-paypal</iconclass>
+        </link>
+	</links>
+</package>
